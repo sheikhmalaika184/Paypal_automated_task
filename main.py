@@ -14,8 +14,8 @@ from webdriver_manager.chrome import ChromeDriverManager as CM
 from selenium.webdriver.chrome.options import Options
 
 DRIVER_PATH = '/Users/malaikasheikh/python/chromedriver'
-admin_email = "AmaliaDeperez498@gmail.com"
-password = "Sohag1122"
+admin_email = "example@gmail.com"
+password = "1122"
 
 # starting a browser 
 driver = webdriver.Chrome(executable_path=DRIVER_PATH)
